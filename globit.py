@@ -16,5 +16,3 @@ data = dict(
 num_nq_examples = dict(train=N, valid=len(files)-N)
 
 print(num_nq_examples)
-
-4/xwGvwGvB0IQMLu0Xcf9YrafV36Xw7jCJlOtVgHW9vs2MteSw3Dom-Wc
