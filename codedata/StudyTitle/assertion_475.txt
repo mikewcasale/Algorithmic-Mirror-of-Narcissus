@@ -1,0 +1,3 @@
+Implementation of evidence-based treatment protocols to
+manage fever, hyperglycaemia, and swallowing dysfunction
+in acute stroke (QASC): a cluster randomised controlled trial
